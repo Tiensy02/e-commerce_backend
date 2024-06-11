@@ -1,0 +1,7 @@
+
+
+# Ignore Firebase service account credentials
+notificationLambdaFunction/src/main/resources/firebase-service-account.json
+
+# Ignore AWS configuration file
+config-server/src/main/resources/configurations/notification.yml
